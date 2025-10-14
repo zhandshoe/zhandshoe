@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zhandshoe
-- 👀 I’m interested in NFT's.
-- 🌱 I’m currently learning Particle Physics.
-- 💞️ I’m looking to collaborate on Investment Portfolios.
-- 📫 How to reach me zachhandshoe@gmail.com.
+- 🦠 I work in the BioPharma Industry
+- 💿 I am learning about computer languages
 
 <!---
 zhandshoe/zhandshoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
